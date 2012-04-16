@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Helvetica Neue", Arial;
+	color: #555;
+	line-height: 1.4;
+}
+
+#wrap {
+	width: 800px;
+	margin: 0 auto;
+}
+
+#header {
+	margin: 20px 0;
+}
+    #header span { font-size: 0.7em; }
+
+#footer {
+	font-size: 0.9em;
+}
+
+#currentPrice {
+	font-size: 6em;
+	line-height: 1.3;
+}
+	.unit { font-size: 0.7em; color: #ccc; }
+
+.textcenter { text-align: center; }
+.left { float: left; }
+.right { float: right; }
+
