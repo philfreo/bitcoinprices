@@ -7,7 +7,7 @@
 		<div id="footer">
 			&copy; <?php echo date('Y'); ?> Fast BTC ↔ USD lookup.
 			<br />
-			Donate: 1tWSLk3Dh3wwsZPMwjzBAdDc2Ru8jAvh7
+			Donate: 146Lk2zqtvAqwTUVajfHfkfaNcG4zt3yui
 		</div>
 
     </div><!-- wrap -->
